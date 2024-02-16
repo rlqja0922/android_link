@@ -4,6 +4,8 @@
 
 권한 관련 링크!
 
+https://greedy0110.tistory.com/59  //기본적인 함수 정의
+
 https://salmonpack.tistory.com/32 
 
 https://github.com/ParkSangGwon/TedPermission
